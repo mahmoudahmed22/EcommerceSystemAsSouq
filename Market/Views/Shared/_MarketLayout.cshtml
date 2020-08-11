@@ -1,0 +1,433 @@
+﻿@using Market.Models;
+@*@using Microsoft.AspNet.Identity;*@
+@using Market.Models.Model;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Market</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/marketStyle")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="m-0 p-0 ">
+
+    <div id="main" class="container-fluid body-content">
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" id="closebtn" onclick="closeNav()">&times;</a>
+            <a href="/Home/Index">Home</a>
+            @if (User.Identity.IsAuthenticated)
+            {
+                if (User.IsInRole("Supplier"))
+                {
+                    <a href="/Product/Index">My Products</a>
+                }
+            }
+            @if (User.Identity.IsAuthenticated)
+            {
+                if (User.IsInRole("Admin"))
+                {
+                    <a href="/Admin/ApplicationUsers/Index">Users</a>
+                    <a href="/Admin/Categories/Index">Categories</a>
+                }
+            }
+            <a href="#">Newsfeed</a>
+            <p href="#" class="headLineSideBar">Categories</p>
+
+            <button class="dropdown-btn" href="/DisplayProduct/GetAllMobileProducts">
+                Mobile&Tablets
+                <i class="fa fa-caret-down" h></i>
+            </button>
+
+
+            <div class="dropdown-container">
+                <a href="#">Mobiles</a>
+                <a href="#">Tablets</a>
+                <a href="#">Mobile Accessories</a>
+                <a href="#">Tablet Accessories</a>
+                <a href="#">Power Bank</a>
+            </div>
+            <div class="dropdown-container">
+                <a href="#">Laptops and Notebooks</a>
+                <a href="#">USB Flash Memory</a>
+                <a href="#">Hard Disks</a>
+                <a href="#">Bags and Carry Cases</a>
+                <a href="#">Software</a>
+                <a href="#">Keyboards</a>
+                <a href="#">Mouse</a>
+                <a href="#">Printers</a>
+                <a href="#">Scanners</a>
+                <a href="#">Speakers</a>
+                <a href="#">UPS</a>
+                <a href="#">Networking</a>
+            </div>
+            <button class="dropdown-btn">
+                Electronics
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-container">
+                <a href="#">Televisions</a>
+                <a href="#">Satellite Recievers</a>
+                <a href="#">TV and Satellite Accessories</a>
+                <a href="#">Projectors</a>
+                <a href="#">Cameras Accessories</a>
+                <a href="#">Audio</a>
+                <a href="#">Security & Surveilliance</a>
+                <a href="#">Gaming</a>
+            </div>
+            <button class="dropdown-btn">
+                Home,Kitchen&Tools
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-container">
+                <a href="#">Cookware</a>
+                <a href="#">Bakeware</a>
+                <a href="#">Kitchen Applicance</a>
+                <a href="#">Kitchen storage & organization</a>
+                <a href="#">Kitchen tools & Utensils</a>
+                <a href="#">Kitchen & Tables Linens</a>
+                <a href="#">Dinnerware</a>
+                <a href="#">Cutlery & Flatware</a>
+                <a href="#">Glassware & Drinkware</a>
+                <a href="#">Serveware</a>
+                <a href="#">Tabletop Accessories</a>
+            </div>
+            <button class="dropdown-btn">
+                Sports & Fitness
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-container">
+                <a href="#">Treadmills, Bikes & Elipticals</a>
+                <a href="#">Fitness Technology</a>
+                <a href="#">Sports Nutrition</a>
+                <a href="#">Ab Machince</a>
+                <a href="#">Weight Training</a>
+                <a href="#">Football</a>
+                <a href="#">BasketballRacket Sports</a>
+                <a href="#">Camping</a>
+            </div>
+            <a href="#">Shop All Categories</a>
+            <p href="#" class="headLineSideBar">Country</p>
+            <a href="#">Egypt</a>
+            <a href="#">KSA</a>
+        </div>
+
+        <nav class="navbar navbar-inverse navbar-expand-lg bg-dark m-0">
+            <button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#topnavbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="topnavbar">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a href="#" class="nav-link text-white"><span><i class="fas fa-truck-moving"></i></span> Free shipping</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white"><span><i class="fas fa-sync-alt"></i></span> Free Returns</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white"><span><i class="fas fa-dollar-sign"></i></span> Cash on delivery</a></li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="nav-item"><a href="#" class="nav-link text-white">Create an account</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white">Customer service</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white">Sell with us</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white">Track orders</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top m-0">
+            <span style="font-size:30px;cursor:pointer;color: #008bbf;" onclick="openNav()">&#9776;</span>
+            <a class="navbar-brand" href="/Home/Index" style="font-weight: bold; color:  #008bbf; font-size: 30px;">Market</a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto"></ul>
+                <form class="navbar-nav form-inline my-2 my-lg-0 mr-auto">
+                    @* <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">*@
+                    <a class="btn btn-outline-primary my-2 my-sm-0" href="/Search/Index">Search</a>
+                </form>
+                <div class="nav-item navbar-nav dropdown mr-auto">
+                    @*<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Log In
+                        </a>
+                        <div class="dropdown-menu text-center" aria-labelledby="navbarDropdown">
+                            <button class="btn btn-primary w-75 p-3">Log In</button>
+                            <div class="dropdown-item">
+                                <p class="mb-0">don't have an account?</p>
+                                <a href="#" class="nav-link text-center t-0">Sign In</a>
+                            </div>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">My orders</a>
+                        </div>*@
+                    @Html.Partial("_LoginPartial")
+                </div>
+                <div class="nav-item navbar-nav">
+                    <a href="#" class="navbar-nav nav-link navbar-nav mr-auto">
+                        @*<i class="fas fa-shopping-cart mt-3" style="color: #008bbf;"></i>*@
+                        <span style="font-weight: bold;"></span>
+                        <i class="fas fa-shopping-cart mt-4" style="color: #008bbf;"></i><sup style="position:absolute;margin-top:22px;background-color:red;padding:0 4px; line-height:15px; color:white; font-size:10px; border-radius:100px;">
+                            @{int count = 0; if (Session["cart"] != null) { foreach (Item item in (List<Item>)Session["cart"]) { count = count + item.Quantity; } } } @count
+                    </a>
+
+                    @*@if (Session["cart"] != null)
+                        {
+                            foreach (Item item in (List<Item>)Session["cart"])
+                            {
+                                int P = Convert.ToInt32(item.Quantity * item.Product.Price);
+                                <a href="@Url.Action("RemoveToCart","Product",new { prodid =item.Product.ID })">@item.Product.Name (@item.Quantity) ( @P )<i class=" fa fa-trash"></i></a>
+                            }
+                        }*@
+                </div>
+                @*<ul>*@
+                @*<li class="dropdown-menu" style="background-color:azure">
+                    <a data-toggle="dropdown" class="dropdown-toggle" style="color:brown">Cart <i class=" fa fa-cart-plus"></i><sup style="position:absolute;margin-top:13px;background-color:red;padding:0 4px; line-height:15px; color:white; font-size:10px; border-radius:100px;">@{int count = 0; if (Session["cart"] != null) { foreach (Item item in (List<Item>)Session["cart"]) { count = count + item.Quantity; } } } @count  </sup><b class="caret"></b> </a>
+                    <ul class="dropdown-menu" style="background-color:burlywood">*@
+
+
+                <a href="@Url.Action("CheckOut","Cart")">Check Out &nbsp;&nbsp;&nbsp;</a>
+
+                @*</ul>
+                        </li>
+                    </ul>*@
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-light navbar-expand-lg hidden-md-down justify-content-center m-0 p-0">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#categoriesNav" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <ul class="navbar-nav collapse navbar-collapse justify-content-center bg-secondary rounded" id="categoriesNav">
+                <li class="nav-item">
+                    <a href="/Home/Index" class="nav-link text-white">All categories</a>
+                </li>
+                <li class="nav-item dropdown mydrpodown-btn text-white">
+                    <!---->
+                    <div class="dropdown text-white">
+                        <a href="/DisplayProduct/GetAllMobileProducts" id="dLabel" role="button" @*data-toggle="dropdown"*@ class="text-white @*dropdown-toggle*@ nav-link">Mobile&Tablets</a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Shop by
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Samsung</a></li>
+                                    <li class="dropdown-submenu">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Apple</a></li>
+                                    <li><a class="dropdown-item" href="#">Oppo</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Shop by price
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">below 1000 LE</a></li>
+                                    <li><a class="dropdown-item" href="#">3000-6000 LE</a></li>
+                                    <li><a class="dropdown-item" href="#">3000-6000 LE</a></li>
+                                    <li><a class="dropdown-item" href="#">More than 6000 LE</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li>
+                                <img src="~/Content/images/Best-sellers.jpg" style="height: 200px;" class="img-thumbnail">
+                            </li>
+                            <li>
+                                <img src="~/Content/images/Feature-Phone.jpg" style="height: 200px;" class="img-thumbnail">
+                            </li>
+                            <li>
+                                <img src="~/Content/images/Tablets.jpg" style="height: 200px;" class="img-thumbnail">
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <div class="dropdown">
+                        <a id="dLabel" role="button" @*data-toggle="dropdown"*@ class="text-white @*dropdown-toggle*@ nav-link"
+                           href="/DisplayProduct/GetAllElectronicsProducts">
+                            Electronics
+                        </a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    PCs
+                                </a>
+                                <img src="~/Content/images/Laptop.jpg" class="img-thumbnail">
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Dell</a></li>
+                                    <li><a class="dropdown-item" href="#">Apple</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    TVs
+                                </a>
+                                <img src="~/Content/images/Tvs.jpg" class="img-thumbnail">
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">below 2000 LE</a></li>
+                                    <li><a class="dropdown-item" href="#">2000-6000 LE</a></li>
+                                    <li><a class="dropdown-item" href="#">TV accessories</a></li>
+                                    <li><a class="dropdown-item" href="#">3000-6000 LE</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <div class="dropdown">
+                        <a id="dLabel" role="button" @*data-toggle="dropdown"*@ class="text-white @*dropdown-toggle*@ nav-link"
+                           href="/DisplayProduct/GetAllHomeProducts">
+                            Home
+                        </a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Furniture
+                                </a>
+                                <img src="~/Content/images/Furniture.jpg" style="height: 200px;" class="img-thumbnail">
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">office Furniture</a></li>
+                                    <li><a class="dropdown-item" href="#">Tables</a></li>
+                                    <li><a class="dropdown-item" href="#">Chairs</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Home Décor
+                                </a>
+                                <img src="~/Content/images/Home-Decore.jpg" style="height: 200px;" class="img-thumbnail">
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Wall Stickers</a></li>
+                                    <li><a class="dropdown-item" href="#">Clocks</a></li>
+                                    <li><a class="dropdown-item" href="#">Rugs&Carpets</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Kitchen
+                                </a>
+                                <img src="~/Content/images/kitchen-dining.jpg" style="height: 200px;" class="img-thumbnail">
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Dinnerware&Serveware</a></li>
+                                    <li><a class="dropdown-item" href="#">Cookwares & Cooking Tools</a></li>
+                                    <li><a class="dropdown-item" href="#">Kitchen accessories</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <div class="dropdown">
+                        <a id="dLabel" role="button" @*data-toggle="dropdown"*@ class="text-white @*dropdown-toggle*@ nav-link"
+                           href="/DisplayProduct/GetAllSportProducts">
+                            Sports
+
+                        </a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    <img src="~/Content/images/sports-banner-en.jpg" style="height: 200px;" class="img-thumbnail">
+                                </a>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Strength & Weights
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Dumbbells</a></li>
+                                    <li><a class="dropdown-item" href="#">Fitness belts</a></li>
+                                    <li><a class="dropdown-item" href="#">Gym gloves</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Cardio exercis equipments
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Bikes & bicycles</a></li>
+                                    <li><a class="dropdown-item" href="#">Jump rope</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-divider"></li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" tabindex="-1" href="#">
+                                    Shop by game
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" tabindex="-1" href="#">Football</a></li>
+                                    <li><a class="dropdown-item" href="#">Yoga</a></li>
+                                    <li><a class="dropdown-item" href="#">Boxing</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div style="margin-left:200px">
+        @RenderBody()
+        <br /><br /><br /><br /><br />
+    </div>
+
+
+    <footer class="page-footer font-small cyan darken-3 text-center">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12 py-5">
+                    <div class="mb-5 flex-center">
+
+                        <a class="fb-ic">
+                            <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                        </a>
+                        <a class="tw-ic">
+                            <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                        </a>
+                        <a class="gplus-ic">
+                            <i class="fab fa-google-plus-g fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                        </a>
+                        <a class="li-ic">
+                            <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                        </a>
+                        <a class="ins-ic">
+                            <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                        </a>
+                        <a class="pin-ic">
+                            <i class="fab fa-pinterest fa-lg white-text fa-2x"> </i>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="footer-copyright text-center py-3">
+            © 2020 Copyright:
+            <a href="#"> Market.com</a>
+        </div>
+
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/marketScripts")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

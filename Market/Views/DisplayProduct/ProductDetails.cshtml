@@ -1,0 +1,111 @@
+﻿@model Market.ViewModel.ProductDetalisViewModel
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Mobile & Tablet Products";
+}
+@Styles.Render("~/commentCss")
+<link rel="stylesheet" type="text/css" href="theme.css">
+<input type="hidden" value="@Model.product.ID" id="idHidden" />
+<div class="container mt-5">
+    <div class="card">
+        <div class="row">
+            <div class="col-sm-5 border-right">
+                <div class="gallery-wrap">
+                    <div class="img-big-wrap">
+                        <div> <a href="#"><img style="width:380px;margin:10px;height:400px" src="@Model.product.Images.ToArray()[0].Url"></a></div>
+                    </div>
+                    <div class="img-small-wrap">
+                        <div class="item-gallery"> <img src="@Model.product.Images.ToArray()[1].Url"> </div>
+                        <div class="item-gallery"> <img src="@Model.product.Images.ToArray()[2].Url"> </div>
+                        <div class="item-gallery"> <img src="@Model.product.Images.ToArray()[0].Url"> </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="card-body p-5">
+                    <h3 class="title mb-3">@Model.product.Name</h3>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+
+                    <p class="price-detail-wrap pt-3">
+                        <span class="price h3 text-warning">
+                            <span class="num">@Model.product.Price</span><span class="currency">LE</span>
+                        </span>
+                    </p>
+                    <dl class="item-property">
+                        <dd><h3>Description</h3></dd>
+                        <dd>
+                            <h5>
+                                @Model.product.Description
+                            </h5>
+                        </dd>
+                    </dl>
+                    <dl class="param param-feature">
+                        <dd><h3>Brand</h3></dd>
+                        <dd><h5>Apple</h5></dd>
+                    </dl>
+                    <a href="#" class="btn btn-lg btn-outline-primary text-uppercase"> <i class="fas fa-shopping-cart"></i> Add to cart </a>
+
+
+                    <hr>
+                    <dl class="item-property">
+                        <dd><h3>Comment</h3></dd>
+                        <dd>
+                            <textarea class="form-control" id="txtcommen" placeholder="add comment..">                         
+                            </textarea>
+                            <div class="pt-2"><h3 class="d-inline">Rating:</h3> <input type="number" max="5" min="0" name="rat" id="rat" /><h5 class="d-inline"> 1-5</h5></div>
+                            <br />
+                            <input type="button" value="comment" id="com" name="com" class="btn-dark pt-2" />
+                        </dd>
+                    </dl>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container" style="margin-right:200px" >
+    <div class="row" id="rend">
+        @{
+            Html.RenderAction("DisplayComment",Model.product.ID);
+        }
+    </div>
+</div>
+    <input type="hidden" value="@User.Identity.GetUserId()" id="iduser" />
+    @section Scripts {
+
+        @Scripts.Render("~/bundles/jqueryval")
+        <script src="~/Scripts/jquery.signalR-2.4.1.js"></script>
+        <script src="~/signalr/js"></script>
+        <script>
+            
+            var proxy = $.connection.CommentHub;
+            $.connection.hub.start().done(function () {
+                $("#com").click(function () {
+                    var usercomment = $("#txtcommen").val();
+                    var userReat = $("#rat").val(); 
+                    var proID = $("#idHidden").val();
+                    var userID = $("#iduser").val();
+                    var comt = { "comment": usercomment, "Reating": userReat, "ProductId": proID, "CustomerId": userID };
+                    proxy.server.AddComment(comt);
+                    $("#txtcommen").val("");
+                    $("#rat").val(0); 
+                })
+            });
+
+            var proxyL = $.connection.CommentHub;
+            proxyL.client.NewCommentAdd = function (c) {               
+                $("#rend").load("/DisplayProduct/DisplayComment/@Model.product.ID");                  
+              }
+
+
+        </script>
+    }
+
+
+

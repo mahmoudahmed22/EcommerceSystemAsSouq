@@ -1,0 +1,1297 @@
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Market.dll.config
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Market.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Market.pdb
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csc.exe
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csc.exe.config
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csc.rsp
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csi.exe
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csi.exe.config
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\csi.rsp
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.AppContext.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Console.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Claims.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\vbc.exe
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\vbc.exe.config
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\vbc.rsp
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Antlr3.Runtime.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\EntityFramework.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\EntityFramework.SqlServer.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Newtonsoft.Json.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Owin.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Helpers.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Mvc.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Optimization.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Razor.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\WebGrease.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Helpers.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Mvc.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Optimization.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.Razor.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Newtonsoft.Json.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Antlr3.Runtime.pdb
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\EntityFramework.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\EntityFramework.SqlServer.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\obj\Debug\Market.dll
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\obj\Debug\Market.pdb
+C:\Users\MAHMOUD\Desktop\mvc project\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+F:\final mvc\final\Market\Market\bin\Market.dll.config
+F:\final mvc\final\Market\Market\bin\Market.dll
+F:\final mvc\final\Market\Market\bin\Market.pdb
+F:\final mvc\final\Market\Market\bin\roslyn\csc.exe
+F:\final mvc\final\Market\Market\bin\roslyn\csc.exe.config
+F:\final mvc\final\Market\Market\bin\roslyn\csc.rsp
+F:\final mvc\final\Market\Market\bin\roslyn\csi.exe
+F:\final mvc\final\Market\Market\bin\roslyn\csi.exe.config
+F:\final mvc\final\Market\Market\bin\roslyn\csi.rsp
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+F:\final mvc\final\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\final mvc\final\Market\Market\bin\roslyn\System.AppContext.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Console.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.IO.Compression.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.IO.FileSystem.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.IO.Pipes.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.AccessControl.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Claims.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.ValueTuple.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Xml.XPath.dll
+F:\final mvc\final\Market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\final mvc\final\Market\Market\bin\roslyn\vbc.exe
+F:\final mvc\final\Market\Market\bin\roslyn\vbc.exe.config
+F:\final mvc\final\Market\Market\bin\roslyn\vbc.rsp
+F:\final mvc\final\Market\Market\bin\roslyn\VBCSCompiler.exe
+F:\final mvc\final\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+F:\final mvc\final\Market\Market\bin\Antlr3.Runtime.dll
+F:\final mvc\final\Market\Market\bin\EntityFramework.dll
+F:\final mvc\final\Market\Market\bin\EntityFramework.SqlServer.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+F:\final mvc\final\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+F:\final mvc\final\Market\Market\bin\Newtonsoft.Json.dll
+F:\final mvc\final\Market\Market\bin\Owin.dll
+F:\final mvc\final\Market\Market\bin\ShutterPrism.MVC.FontAwesome.dll
+F:\final mvc\final\Market\Market\bin\System.Web.Helpers.dll
+F:\final mvc\final\Market\Market\bin\System.Web.Mvc.dll
+F:\final mvc\final\Market\Market\bin\System.Web.Optimization.dll
+F:\final mvc\final\Market\Market\bin\System.Web.Razor.dll
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.Deployment.dll
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.dll
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.Razor.dll
+F:\final mvc\final\Market\Market\bin\WebGrease.dll
+F:\final mvc\final\Market\Market\bin\System.Web.Helpers.xml
+F:\final mvc\final\Market\Market\bin\System.Web.Mvc.xml
+F:\final mvc\final\Market\Market\bin\System.Web.Optimization.xml
+F:\final mvc\final\Market\Market\bin\System.Web.Razor.xml
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.xml
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.Deployment.xml
+F:\final mvc\final\Market\Market\bin\System.Web.WebPages.Razor.xml
+F:\final mvc\final\Market\Market\bin\Newtonsoft.Json.xml
+F:\final mvc\final\Market\Market\bin\Antlr3.Runtime.pdb
+F:\final mvc\final\Market\Market\bin\EntityFramework.xml
+F:\final mvc\final\Market\Market\bin\EntityFramework.SqlServer.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+F:\final mvc\final\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\final mvc\final\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+F:\final mvc\final\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+F:\final mvc\final\Market\Market\obj\Debug\Market.csproj.CopyComplete
+F:\final mvc\final\Market\Market\obj\Debug\Market.dll
+F:\final mvc\final\Market\Market\obj\Debug\Market.pdb
+E:\New folder\Market\Market\bin\Market.dll.config
+E:\New folder\Market\Market\bin\Market.dll
+E:\New folder\Market\Market\bin\Market.pdb
+E:\New folder\Market\Market\bin\roslyn\csc.exe
+E:\New folder\Market\Market\bin\roslyn\csc.exe.config
+E:\New folder\Market\Market\bin\roslyn\csc.rsp
+E:\New folder\Market\Market\bin\roslyn\csi.exe
+E:\New folder\Market\Market\bin\roslyn\csi.exe.config
+E:\New folder\Market\Market\bin\roslyn\csi.rsp
+E:\New folder\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder\Market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\Market\Market\bin\roslyn\System.AppContext.dll
+E:\New folder\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\Market\Market\bin\roslyn\System.Console.dll
+E:\New folder\Market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder\Market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder\Market\Market\bin\roslyn\System.IO.Compression.dll
+E:\New folder\Market\Market\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder\Market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder\Market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\New folder\Market\Market\bin\roslyn\System.IO.Pipes.dll
+E:\New folder\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.AccessControl.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Claims.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder\Market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+E:\New folder\Market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder\Market\Market\bin\roslyn\System.ValueTuple.dll
+E:\New folder\Market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder\Market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder\Market\Market\bin\roslyn\System.Xml.XPath.dll
+E:\New folder\Market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder\Market\Market\bin\roslyn\vbc.exe
+E:\New folder\Market\Market\bin\roslyn\vbc.exe.config
+E:\New folder\Market\Market\bin\roslyn\vbc.rsp
+E:\New folder\Market\Market\bin\roslyn\VBCSCompiler.exe
+E:\New folder\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\Market\Market\bin\Antlr3.Runtime.dll
+E:\New folder\Market\Market\bin\EntityFramework.dll
+E:\New folder\Market\Market\bin\EntityFramework.SqlServer.dll
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\New folder\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+E:\New folder\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\Market\Market\bin\Newtonsoft.Json.dll
+E:\New folder\Market\Market\bin\Owin.dll
+E:\New folder\Market\Market\bin\System.Web.Helpers.dll
+E:\New folder\Market\Market\bin\System.Web.Mvc.dll
+E:\New folder\Market\Market\bin\System.Web.Optimization.dll
+E:\New folder\Market\Market\bin\System.Web.Razor.dll
+E:\New folder\Market\Market\bin\System.Web.WebPages.Deployment.dll
+E:\New folder\Market\Market\bin\System.Web.WebPages.dll
+E:\New folder\Market\Market\bin\System.Web.WebPages.Razor.dll
+E:\New folder\Market\Market\bin\WebGrease.dll
+E:\New folder\Market\Market\bin\System.Web.Helpers.xml
+E:\New folder\Market\Market\bin\System.Web.Mvc.xml
+E:\New folder\Market\Market\bin\System.Web.Optimization.xml
+E:\New folder\Market\Market\bin\System.Web.Razor.xml
+E:\New folder\Market\Market\bin\System.Web.WebPages.xml
+E:\New folder\Market\Market\bin\System.Web.WebPages.Deployment.xml
+E:\New folder\Market\Market\bin\System.Web.WebPages.Razor.xml
+E:\New folder\Market\Market\bin\Newtonsoft.Json.xml
+E:\New folder\Market\Market\bin\Antlr3.Runtime.pdb
+E:\New folder\Market\Market\bin\EntityFramework.xml
+E:\New folder\Market\Market\bin\EntityFramework.SqlServer.xml
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\New folder\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\New folder\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+E:\New folder\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\New folder\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\New folder\Market\Market\obj\Debug\Market.csproj.CopyComplete
+E:\New folder\Market\Market\obj\Debug\Market.dll
+E:\New folder\Market\Market\obj\Debug\Market.pdb
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Market.dll.config
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Market.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Market.pdb
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csc.exe
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csc.exe.config
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csc.rsp
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csi.exe
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csi.exe.config
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\csi.rsp
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.AppContext.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Console.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Claims.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\vbc.exe
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\vbc.exe.config
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\vbc.rsp
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\Foli\Desktop\foli\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Antlr3.Runtime.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\EntityFramework.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\EntityFramework.SqlServer.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Newtonsoft.Json.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Owin.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Helpers.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Mvc.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Optimization.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Razor.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\WebGrease.dll
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Helpers.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Mvc.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Optimization.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.Razor.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Newtonsoft.Json.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Antlr3.Runtime.pdb
+C:\Users\Foli\Desktop\foli\Market\Market\bin\EntityFramework.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\EntityFramework.SqlServer.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Foli\Desktop\foli\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Foli\Desktop\foli\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\Foli\Desktop\foli\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Foli\Desktop\foli\Market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\Foli\Desktop\foli\Market\Market\obj\Debug\Market.dll
+C:\Users\Foli\Desktop\foli\Market\Market\obj\Debug\Market.pdb
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Market.dll.config
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Market.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Market.pdb
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csc.exe
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csc.exe.config
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csc.rsp
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csi.exe
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csi.exe.config
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\csi.rsp
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.AppContext.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Console.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.IO.Compression.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.IO.FileSystem.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.IO.Pipes.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.AccessControl.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Claims.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.ValueTuple.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Xml.XPath.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\vbc.exe
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\vbc.exe.config
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\vbc.rsp
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\VBCSCompiler.exe
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Antlr3.Runtime.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\EntityFramework.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\EntityFramework.SqlServer.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Newtonsoft.Json.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Owin.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Helpers.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Mvc.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Optimization.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Razor.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.Deployment.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.Razor.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\WebGrease.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Helpers.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Mvc.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Optimization.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.Razor.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.Deployment.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\System.Web.WebPages.Razor.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Newtonsoft.Json.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Antlr3.Runtime.pdb
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\EntityFramework.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\EntityFramework.SqlServer.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\obj\Debug\Market.csproj.CopyComplete
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\obj\Debug\Market.dll
+E:\Asmaa\nine-months\c#\MVCProject - Copy\MarketFoli\Market\Market\obj\Debug\Market.pdb
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Market.dll.config
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Market.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Market.pdb
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csc.exe
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csc.exe.config
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csc.rsp
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csi.exe
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csi.exe.config
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\csi.rsp
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.AppContext.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Collections.Immutable.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Console.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.IO.Compression.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.IO.FileSystem.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.IO.Pipes.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.AccessControl.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Claims.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.ValueTuple.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Xml.XPath.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\vbc.exe
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\vbc.exe.config
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\vbc.rsp
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\VBCSCompiler.exe
+E:\Asmaa\nine-months\git\Market\market\Market\bin\roslyn\VBCSCompiler.exe.config
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Antlr3.Runtime.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\EntityFramework.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\EntityFramework.SqlServer.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Google.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Web.Infrastructure.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Newtonsoft.Json.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Owin.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Helpers.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Mvc.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Optimization.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Razor.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.Deployment.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.Razor.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\WebGrease.dll
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Helpers.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Mvc.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Optimization.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.Razor.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.Deployment.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\System.Web.WebPages.Razor.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Newtonsoft.Json.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Antlr3.Runtime.pdb
+E:\Asmaa\nine-months\git\Market\market\Market\bin\EntityFramework.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\EntityFramework.SqlServer.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Google.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Asmaa\nine-months\git\Market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asmaa\nine-months\git\Market\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\Asmaa\nine-months\git\Market\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\Asmaa\nine-months\git\Market\market\Market\obj\Debug\Market.csproj.CopyComplete
+E:\Asmaa\nine-months\git\Market\market\Market\obj\Debug\Market.dll
+E:\Asmaa\nine-months\git\Market\market\Market\obj\Debug\Market.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Market.dll.config
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Market.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Market.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csc.exe
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csc.exe.config
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csc.rsp
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csi.exe
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csi.exe.config
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\csi.rsp
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.AppContext.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Console.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Claims.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\vbc.exe
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\vbc.exe.config
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\vbc.rsp
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Antlr3.Runtime.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\EntityFramework.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\EntityFramework.SqlServer.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Newtonsoft.Json.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Owin.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Helpers.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Mvc.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Optimization.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Razor.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\WebGrease.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Helpers.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Mvc.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Optimization.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.Razor.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Newtonsoft.Json.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Antlr3.Runtime.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\EntityFramework.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\EntityFramework.SqlServer.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\obj\Debug\Market.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\obj\Debug\Market.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\MAHMOUD\Desktop\Final Mvc Project\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Market.dll.config
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Market.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Market.pdb
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csc.exe
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csc.exe.config
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csc.rsp
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csi.exe
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csi.exe.config
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\csi.rsp
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.AppContext.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Collections.Immutable.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Console.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.IO.Compression.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.IO.FileSystem.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.IO.Pipes.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.AccessControl.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Claims.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.ValueTuple.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Xml.XPath.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\vbc.exe
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\vbc.exe.config
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\vbc.rsp
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\VBCSCompiler.exe
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\roslyn\VBCSCompiler.exe.config
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Antlr3.Runtime.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\EntityFramework.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\EntityFramework.SqlServer.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Google.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Web.Infrastructure.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Newtonsoft.Json.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Owin.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Helpers.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Mvc.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Optimization.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Razor.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.Deployment.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.Razor.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\WebGrease.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Helpers.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Mvc.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Optimization.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.Razor.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.Deployment.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\System.Web.WebPages.Razor.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Newtonsoft.Json.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Antlr3.Runtime.pdb
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\EntityFramework.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\EntityFramework.SqlServer.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Google.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asmaa\mvcfinalproject\market\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\Asmaa\mvcfinalproject\market\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\Asmaa\mvcfinalproject\market\market\Market\obj\Debug\Market.csproj.CopyComplete
+E:\Asmaa\mvcfinalproject\market\market\Market\obj\Debug\Market.dll
+E:\Asmaa\mvcfinalproject\market\market\Market\obj\Debug\Market.pdb
+C:\Users\Foli\Desktop\LV\market\Market\bin\Market.dll.config
+C:\Users\Foli\Desktop\LV\market\Market\bin\Market.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Market.pdb
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csc.exe
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csc.exe.config
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csc.rsp
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csi.exe
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csi.exe.config
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\csi.rsp
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.AppContext.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Console.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Claims.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\vbc.exe
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\vbc.exe.config
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\vbc.rsp
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\Foli\Desktop\LV\market\Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Foli\Desktop\LV\market\Market\bin\Antlr3.Runtime.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\EntityFramework.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\EntityFramework.SqlServer.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Newtonsoft.Json.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Owin.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Helpers.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Mvc.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Optimization.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Razor.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\WebGrease.dll
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Helpers.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Mvc.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Optimization.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.Razor.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Newtonsoft.Json.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Antlr3.Runtime.pdb
+C:\Users\Foli\Desktop\LV\market\Market\bin\EntityFramework.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\EntityFramework.SqlServer.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Foli\Desktop\LV\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Foli\Desktop\LV\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\Foli\Desktop\LV\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Foli\Desktop\LV\market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\Foli\Desktop\LV\market\Market\obj\Debug\Market.dll
+C:\Users\Foli\Desktop\LV\market\Market\obj\Debug\Market.pdb
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Market.dll.config
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Market.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Market.pdb
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csc.exe
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csc.exe.config
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csc.rsp
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csi.exe
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csi.exe.config
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\csi.rsp
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.AppContext.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Console.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Claims.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\vbc.exe
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\vbc.exe.config
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\vbc.rsp
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\asmaa\Desktop\final project\market\Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Antlr3.Runtime.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\EntityFramework.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\EntityFramework.SqlServer.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Newtonsoft.Json.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Owin.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Helpers.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Mvc.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Optimization.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Razor.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\WebGrease.dll
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Helpers.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Mvc.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Optimization.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.Razor.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Newtonsoft.Json.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Antlr3.Runtime.pdb
+C:\Users\asmaa\Desktop\final project\market\Market\bin\EntityFramework.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\EntityFramework.SqlServer.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asmaa\Desktop\final project\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asmaa\Desktop\final project\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\asmaa\Desktop\final project\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\final project\market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\asmaa\Desktop\final project\market\Market\obj\Debug\Market.dll
+C:\Users\asmaa\Desktop\final project\market\Market\obj\Debug\Market.pdb
+E:\MVC\final\final project\market\Market\bin\Market.dll.config
+E:\MVC\final\final project\market\Market\bin\Market.dll
+E:\MVC\final\final project\market\Market\bin\Market.pdb
+E:\MVC\final\final project\market\Market\bin\roslyn\csc.exe
+E:\MVC\final\final project\market\Market\bin\roslyn\csc.exe.config
+E:\MVC\final\final project\market\Market\bin\roslyn\csc.rsp
+E:\MVC\final\final project\market\Market\bin\roslyn\csi.exe
+E:\MVC\final\final project\market\Market\bin\roslyn\csi.exe.config
+E:\MVC\final\final project\market\Market\bin\roslyn\csi.rsp
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\final\final project\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\final\final project\market\Market\bin\roslyn\System.AppContext.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Console.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.IO.Compression.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.IO.Pipes.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.AccessControl.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Claims.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.ValueTuple.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\final\final project\market\Market\bin\roslyn\vbc.exe
+E:\MVC\final\final project\market\Market\bin\roslyn\vbc.exe.config
+E:\MVC\final\final project\market\Market\bin\roslyn\vbc.rsp
+E:\MVC\final\final project\market\Market\bin\roslyn\VBCSCompiler.exe
+E:\MVC\final\final project\market\Market\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\final\final project\market\Market\bin\Antlr3.Runtime.dll
+E:\MVC\final\final project\market\Market\bin\EntityFramework.dll
+E:\MVC\final\final project\market\Market\bin\EntityFramework.SqlServer.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\final\final project\market\Market\bin\Newtonsoft.Json.dll
+E:\MVC\final\final project\market\Market\bin\Owin.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.Helpers.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.Mvc.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.Optimization.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.Razor.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.dll
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.Razor.dll
+E:\MVC\final\final project\market\Market\bin\WebGrease.dll
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.Helpers.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.Mvc.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.Optimization.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.Razor.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\final\final project\market\Market\bin\System.Web.WebPages.Razor.xml
+E:\MVC\final\final project\market\Market\bin\Newtonsoft.Json.xml
+E:\MVC\final\final project\market\Market\bin\Antlr3.Runtime.pdb
+E:\MVC\final\final project\market\Market\bin\EntityFramework.xml
+E:\MVC\final\final project\market\Market\bin\EntityFramework.SqlServer.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC\final\final project\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\final\final project\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\MVC\final\final project\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\MVC\final\final project\market\Market\obj\Debug\Market.csproj.CopyComplete
+E:\MVC\final\final project\market\Market\obj\Debug\Market.dll
+E:\MVC\final\final project\market\Market\obj\Debug\Market.pdb
+H:\ProjectSouqFinal\market\Market\bin\Market.dll.config
+H:\ProjectSouqFinal\market\Market\bin\Market.dll
+H:\ProjectSouqFinal\market\Market\bin\Market.pdb
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csc.exe
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csc.exe.config
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csc.rsp
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csi.exe
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csi.exe.config
+H:\ProjectSouqFinal\market\Market\bin\roslyn\csi.rsp
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ProjectSouqFinal\market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.AppContext.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Collections.Immutable.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Console.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.IO.Compression.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.IO.FileSystem.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.IO.Pipes.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Reflection.Metadata.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.AccessControl.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Claims.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.ValueTuple.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Xml.XPath.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ProjectSouqFinal\market\Market\bin\roslyn\vbc.exe
+H:\ProjectSouqFinal\market\Market\bin\roslyn\vbc.exe.config
+H:\ProjectSouqFinal\market\Market\bin\roslyn\vbc.rsp
+H:\ProjectSouqFinal\market\Market\bin\roslyn\VBCSCompiler.exe
+H:\ProjectSouqFinal\market\Market\bin\roslyn\VBCSCompiler.exe.config
+H:\ProjectSouqFinal\market\Market\bin\Antlr3.Runtime.dll
+H:\ProjectSouqFinal\market\Market\bin\EntityFramework.dll
+H:\ProjectSouqFinal\market\Market\bin\EntityFramework.SqlServer.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Google.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Web.Infrastructure.dll
+H:\ProjectSouqFinal\market\Market\bin\Newtonsoft.Json.dll
+H:\ProjectSouqFinal\market\Market\bin\Owin.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Helpers.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Mvc.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Optimization.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Razor.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.Deployment.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.dll
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.Razor.dll
+H:\ProjectSouqFinal\market\Market\bin\WebGrease.dll
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.Core.pdb
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Helpers.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Mvc.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Optimization.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.Razor.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.Deployment.xml
+H:\ProjectSouqFinal\market\Market\bin\System.Web.WebPages.Razor.xml
+H:\ProjectSouqFinal\market\Market\bin\Newtonsoft.Json.xml
+H:\ProjectSouqFinal\market\Market\bin\Antlr3.Runtime.pdb
+H:\ProjectSouqFinal\market\Market\bin\EntityFramework.xml
+H:\ProjectSouqFinal\market\Market\bin\EntityFramework.SqlServer.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Google.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ProjectSouqFinal\market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ProjectSouqFinal\market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+H:\ProjectSouqFinal\market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+H:\ProjectSouqFinal\market\Market\obj\Debug\Market.csproj.CopyComplete
+H:\ProjectSouqFinal\market\Market\obj\Debug\Market.dll
+H:\ProjectSouqFinal\market\Market\obj\Debug\Market.pdb

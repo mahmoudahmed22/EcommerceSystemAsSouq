@@ -1,0 +1,295 @@
+﻿@model IEnumerable<Market.Models.Model.Product>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+
+<style>
+    .card-product .img-wrap {
+        border-radius: 3px 3px 0 0;
+        overflow: hidden;
+        position: relative;
+        height: 220px;
+        text-align: center;
+    }
+
+        .card-product .img-wrap img {
+            max-height: 100%;
+            max-width: 100%;
+            object-fit: cover;
+        }
+
+    .card-product .info-wrap {
+        overflow: hidden;
+        padding: 15px;
+        border-top: 1px solid #eee;
+    }
+
+    .card-product .bottom-wrap {
+        padding: 15px;
+        border-top: 1px solid #eee;
+    }
+
+    .label-rating {
+        margin-right: 10px;
+        color: #333;
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .card-product .price-old {
+        color: #999;
+    }
+</style>
+<div class="row  pt-2">
+
+    <div class="col-lg-4">
+        <input type="text" name="NameP" placeholder="Enter Prduct Name" id="NameP" class="form-control" />
+    </div>
+    <div class="col-lg-2">
+        <input type="button" name="getAll" value="Get ALL Product" id="getAll" class="form-control" />
+    </div>
+</div>
+<div class="row pt-2">
+    <div class="col-lg-2">
+        @Html.DropDownList("CategoryId", new SelectList(ViewBag.categories, "Id", "Name"), new { @class = "form-control" })
+    </div>
+    <div class="col-lg-2">
+        <input type="number" min="0" max="100000" placeholder="Price from" name="PriceP" id="PriceP" class="form-control" />
+     </div>
+    <div class="col-lg-2">
+        <input type="number" min="0" max="100000" placeholder="Price to" name="PriceA" id="PriceA" class="form-control" />
+
+    </div>
+    <div class="col-lg-2">
+        <input type="button" id="btnSearch" value="Search" />
+    </div>
+    <div class="col-lg-2">
+        @*@Html.RadioButton("desc", "Descending", new { @class = "radiobtn" })*@
+        <div class="col-lg-6 ">
+            Descending <input style="display:inline" type="radio" name="order" value="Descending" id="desc" />
+        </div>
+        <div class="col-lg-6 ">
+            Ascending   <input style="display:inline" type="radio" name="order" value="Ascending" id="asc" />
+        </div>
+           
+    </div>
+        
+    </div>
+
+
+   
+
+    @*@{Html.RenderPartial("_Getall", Model);}*@
+<div id="res" class="pt-5">
+
+
+    <div class="container" style="margin-top:10px">
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4" >
+                    <figure class="card card-product">
+                        @{ bool f = true;
+                            foreach (var i in item.Images)
+                            {
+                                if (f)
+                                {
+                                    <div class="img-wrap"><a href="/DisplayProduct/ProductDetails/@item.ID "><img @*style="width:290px; height:180px"*@ src="@i.Url"></a></div>
+                                    f = false;
+                                }
+                            }
+                        }
+                        @*<div class="img-wrap"><img src="@item.Images"></div>*@
+
+
+                    <figcaption class="info-wrap" style="height:116px">
+                        <h4 class="title">@item.Name</h4>
+                        <span class="desc">@item.Name</span>
+                        <div class="rating-wrap">
+                            <a href="/DisplayProduct/ProductDetails/@item.ID">Details</a>
+                        </div>
+                    </figcaption>
+                        <div class="bottom-wrap">
+                            <a href="" class="btn btn-sm btn-primary float-right">add To Card</a>
+                            <div class="price-wrap h5">
+                                <span class="price-new">@item.Price</span>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+
+            }
+
+
+
+        </div> <!-- row.// -->
+
+
+
+    </div>
+
+
+</div>
+    @section Scripts {
+
+        <link href="~/Content/jquery-ui.theme.css" rel="stylesheet" />
+        @*<link href="~/Content/jquery-ui.css" rel="stylesheet" />*@
+        <link href="~/Content/jquery-ui.structure.css" rel="stylesheet" />
+        <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+        @*<script src="~/Scripts/jquery-ui-1.12.1.js"></script>*@
+        <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+        <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+        <script type="text/javascript">
+            // function showProduct(NameP,PriceP,How) {
+            //     $.ajax({
+            //         URL: "Search/SearchByNameAndPrice",
+            //         datatype: "html",
+            //         data: {
+            //                 "NameP": $("#NameP").val(),
+            //                 "PriceP": parseInt($("#PriceP").val()),
+            //                 "How": $("#How").val()
+            //             },
+            //         success: function (result) { $("#res").html(result); },
+            //         error: function () {
+            //             alert("error");
+            //         }
+            //     });
+            //}
+
+            $(document).ready(function () {
+
+                $("#NameP").autocomplete({
+                    source: function (request, response) {
+                        $.ajax({
+                            url: "/Search/SearchByName",
+                            type: "POST",
+                            dataType: "json",
+                            data: { Prefix: request.term },
+                            success: function (data) {
+                                response($.map(data, function (item) {
+                                    return { label: item, value: item };
+
+                                }))
+
+                            }
+                        })
+                    },
+                    messages: {
+                        noResults: "", results: ""
+                    }
+                });
+
+                $("#NameP").keydown(function () {
+                        $.ajax({
+                            url: "/Search/SearchUseingName",
+                            type: "POST",
+                            dataType: "html",
+                            data: {
+                                "Name": $("#NameP").val()
+                            },
+                            success: function (result) {
+                                $("#res").html(result);
+                            },
+                            error: function () {
+                                alert("errer");
+                            }
+                        })
+                    },
+                   
+               );
+               
+                $("#btnSearch").click(function () {                    
+                    $.ajax({
+                        url: "/Search/SearchByCategoryAndPrice",
+                        datatype: "html",
+                        data: {
+                            "CategoryId": $("#CategoryId").val(),
+                            "PriceP": parseInt($("#PriceP").val()),  
+                            "PriceA": parseInt($("#PriceA").val()),      
+                        },
+                        success: function (result) {
+                            $("#res").html(result);
+                        },
+                        error: function () {
+                            alert("Enter Price");
+                        }
+                    })
+
+
+                });
+
+                $("#CategoryId").click(function () {
+                    $.ajax({
+                        url: "/Search/SearchByCategory",
+                        datatype: "html",
+                        data: {
+                            "id": $("#CategoryId").val(),
+                        },
+                        success: function (result) {
+                            $("#res").html(result);
+                        },
+                        error: function () {
+                            alert("errer");
+                        }
+                    })
+
+
+                });
+                //desc
+                //asc
+                //order
+                //$("#desc").select(function () {
+                //    $.ajax({
+                //        url: "/Search/SearchByCategoryAndPrice",
+                //        datatype: "html",
+                //        data: {
+                //            "CategoryId": $("#CategoryId").val(),
+                //            "PriceP": parseInt($("#PriceP").val()),
+                //            "orderBy": $("input[Name=order]").val(),
+                //        },
+                //        success: function (result) {
+                //            $("#res").html(result);
+                //        },
+                //        error: function () {
+                //            alert("errer");
+                //        }
+                //    })
+                //});
+                $("input[Name=order]").change(function () {
+                    $.ajax({
+                        url: "/Search/SearchByCategoryAndPrice",
+                        datatype: "html",
+                        data: {
+                            "CategoryId": $("#CategoryId").val(),
+                            "PriceP": parseInt($("#PriceP").val()),
+                            "order": $(this).val(),
+                            "PriceA": parseInt($("#PriceA").val()),
+                        },
+                        success: function (result) {
+                            $("#res").html(result);
+                        },
+                        error: function () {
+                            alert("errer");
+                        }
+                    })
+                });
+                $("#getAll").click(function () {
+                    $.ajax({
+                        url: "/Search/GetALLProduct",
+                        datatype: "html",                    
+                        success: function (result) {
+                            $("#res").html(result);
+                        },
+                        error: function () {
+                            alert("errer");
+                        }
+                    })
+                });
+
+
+            })
+        </script>
+    }

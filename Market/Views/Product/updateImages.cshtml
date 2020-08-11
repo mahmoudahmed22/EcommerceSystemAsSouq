@@ -1,0 +1,35 @@
+﻿@model Market.ViewModel.CreateProductViewModel
+@{
+    ViewBag.Title = "updateImage";
+}
+
+<h2>AddImage</h2>
+@using (Html.BeginForm("updateImage", "Product", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+{
+    <div>
+        <input type="hidden" name="idpro" id="idpro" value="@Model.idpro" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Image 1", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">        
+            @Html.TextBoxFor(m => m.files, new { type = "file", @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Image 2", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">          
+            @Html.TextBoxFor(m => m.files, new { type = "file", @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Image 3", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.files, new { type = "file", @class = "form-control" })
+
+        </div>
+
+    </div>
+    <input type="submit" class="btn btn-default" value="Save" />
+
+
+}

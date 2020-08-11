@@ -1,0 +1,35 @@
+﻿@model List<Market.Models.Model.Comment>
+
+<div class="col-md-8">
+    <div class="page-header">
+        <h1><small class="pull-right">@Model.Count comments</small> Comments </h1>
+    </div>
+    <div class="comments-list" id="ccc">
+        @foreach (var item in Model)
+        {
+            {
+                int diff2 = (DateTime.Now - item.dateTime).Hours;
+            <span class="pull-right" style="margin-top:10px"><small>@diff2 Hours ago</small></span>}
+            <div class="media">
+
+
+                <a class="media-left" href="#">
+                    <img src="@item.customer.ApplicationUser.Image" style="width:40px;height:40px">
+                </a>
+
+                <div class="media-body">
+
+                    <h4 class="media-heading user_name">@item.customer.ApplicationUser.UserName</h4>
+                    @item.comment
+
+                    <p><small><a href="">Like</a> - <a href="">Share</a></small></p>
+                </div>
+            </div>
+
+
+        }
+    </div>
+
+
+
+</div>

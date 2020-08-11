@@ -1,0 +1,62 @@
+﻿@using Market.Models;
+@using Market.Models.Model;
+@*<!DOCTYPE html>*@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li class="dropdown-menu" style="background-color:azure">
+                        <a data-toggle="dropdown" class="dropdown-toggle" style="color:brown">Cart <i class=" fa fa-cart-plus"></i><sup style="position:absolute;margin-top:13px;background-color:red;padding:0 4px; line-height:15px; color:white; font-size:10px; border-radius:100px;">@{int count = 0; if (Session["cart"] != null) { foreach (Item item in (List<Item>)Session["cart"]) { count = count + item.Quantity; } } } @count  </sup><b class="caret"></b> </a>
+                        <ul class="dropdown-menu" style="background-color:burlywood">
+
+                            @if (Session["cart"] != null)
+                            {
+                                foreach (Item item in (List<Item>)Session["cart"])
+                                {
+                                    int P = Convert.ToInt32(item.Quantity * item.Product.Price);
+                                    <li> <a href="@Url.Action("RemoveToCart","Product",new { prodid =item.Product.ID })">@item.Product.Name (@item.Quantity) ( @P )<i class=" fa fa-trash"></i></a></li>
+                                }
+                            }
+                            <li> <a href="@Url.Action("CheckOut","Product")">Check Out &nbsp;&nbsp;&nbsp;<i class=" fa fa-shopping-cart"></i></a></li>
+
+                        </ul>
+                    </li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

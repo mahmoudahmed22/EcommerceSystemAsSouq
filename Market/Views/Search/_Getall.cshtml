@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Market.Models.Model.Product>
+
+
+<div class="container" style="margin-top:10px">
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <figure class="card card-product">
+                    @{ bool f = true;
+                        foreach (var i in item.Images)
+                        {
+                            if (f)
+                            {
+                                <div class="img-wrap"><a href="/DisplayProduct/ProductDetails/@item.ID "><img @*style="width:290px; height:180px"*@ src="@i.Url"></a></div>
+                                f = false;
+                            }
+                        }
+                    }
+                    @*<div class="img-wrap"><img src="@item.Images"></div>*@
+
+
+                    <figcaption class="info-wrap" style="height:116px">
+                        <h4 class="title">@item.Name</h4>
+                        <span class="desc">@item.Name</span>
+                        <div class="rating-wrap">
+                            <a href="/DisplayProduct/ProductDetails/@item.ID">Details</a>
+                        </div>
+                    </figcaption>
+                    <div class="bottom-wrap">
+                        <a href="" class="btn btn-sm btn-primary float-right">add To Card</a>
+                        <div class="price-wrap h5">
+                            <span class="price-new">@item.Price</span>
+                        </div>
+                    </div>
+                </figure>
+            </div>
+
+        }
+
+
+
+    </div> <!-- row.// -->
+
+
+
+</div>

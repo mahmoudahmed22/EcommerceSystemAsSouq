@@ -1,0 +1,67 @@
+﻿@using Market.Models;
+@using Microsoft.AspNet.Identity;
+@using Market.Models.Model;
+@{
+    ViewBag.Title = "CheckOut";
+}
+
+<h2>CheckOut   &nbsp;<i class="fa fa-check-circle-o"></i></h2>
+@{
+    int Total = 0;
+}
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th>
+            Price Of Unit
+        </th>
+        <th>
+            Price
+        </th>
+    </tr>
+    @if (Session["cart"] != null)
+    {
+        foreach (var item in (List<Item>)Session["cart"])
+        {
+            int LineTotal = Convert.ToInt32((item.Product.Price * @item.Quantity));
+            Total = Total + LineTotal;
+            <tr>
+                <td>
+                    @item.Product.Name
+                </td>
+                <td>
+                    @item.Quantity
+                </td>
+                <td>
+                    @item.Product.Price
+                </td>
+                <td>
+                    @((item.Product.Price * @item.Quantity).ToString("c"))
+                    <i class="fa fa-shopping-cart"></i>
+                </td>
+
+
+            </tr>
+
+        }
+
+    }
+    <tr style="background-color:greenyellow">
+        <td colspan="2" style="text-align:right">
+            Total Price
+        </td>
+        <td colspan="1" style="text-align:right">
+            @Total
+        </td>
+        <td>
+            <i class="fa fa-shopping-bag"></i>
+        </td>
+    </tr>
+</table>
+
+<a href="BuyItem/@User.Identity.GetUserId()" class="btn btn-info">Buy Product In Cart</a>
